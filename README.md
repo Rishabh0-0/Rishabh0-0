@@ -7,4 +7,4 @@
 - 💨 Tailwind CSS
 - 🌐 HTML5, CSS3, JavaScript
 - 🛠️ Git & GitHub
-- 📦 NPM, Yarn
+- 📦 NPM
