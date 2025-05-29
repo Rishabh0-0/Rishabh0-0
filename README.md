@@ -6,7 +6,7 @@ I love working with React and Tailwind CSS on the front end, and diving into Nod
 
 ## 🔧 Technologies & Tools
 - ⚛️ React.js, Redux
-- 💨 Tailwind CSS, Sass
+- 💨 Tailwind CSS
 - 🌐 HTML5, CSS3, JavaScript (ES6+)
 - 🌍 Node.js, Express.js
 - 🛢️ MongoDB, Mongoose
