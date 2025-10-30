@@ -7,10 +7,9 @@ I love working with React and Tailwind CSS on the front end, and diving into Nod
 ## 🔧 Technologies & Tools
 - ⚛️ React.js, Redux
 - 💨 Tailwind CSS
-- 🌐 HTML5, CSS3, JavaScript (ES6+)
+- 🌐 HTML5, CSS3, JavaScript, JAVA
 - 🌍 Node.js, Express.js
-- 🛢️ MongoDB, Mongoose
+- 🛢️ MySQL, JDBC, MongoDB, Mongoose
 - 🔐 JWT, REST APIs
 - 🛠️ Git & GitHub
 - 📦 NPM, Vite
-- ☁️ Deployment: Render, Vercel, Netlify
